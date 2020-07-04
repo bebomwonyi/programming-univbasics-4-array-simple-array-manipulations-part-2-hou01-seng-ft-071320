@@ -5,3 +5,7 @@ end
 def using_insert(a,b)
   a.insert(4,b)
 end
+
+def using_uniq(a)
+  a.uniq
+end
