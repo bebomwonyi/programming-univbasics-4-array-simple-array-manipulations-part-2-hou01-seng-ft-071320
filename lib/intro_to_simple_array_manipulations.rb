@@ -16,3 +16,4 @@ end
 
 def using_delete(a,b)
   a.delete(b)
+end
